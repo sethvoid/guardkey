@@ -7,3 +7,17 @@ C:\Users\Sebastian\source\repos\guardkey\guardkey\bin\Debug\guardkey.exe
 C:\Users\Sebastian\source\repos\guardkey\guardkey\bin\Debug\guardkey.pdb
 C:\Users\Sebastian\source\repos\guardkey\guardkey\obj\Debug\guardkey.exe
 C:\Users\Sebastian\source\repos\guardkey\guardkey\obj\Debug\guardkey.pdb
+C:\Users\Sebastian\Documents\source\guardkey\guardkey\guardkey\bin\Debug\guardkey.exe
+C:\Users\Sebastian\Documents\source\guardkey\guardkey\guardkey\bin\Debug\guardkey.pdb
+C:\Users\Sebastian\Documents\source\guardkey\guardkey\guardkey\obj\Debug\guardkey.csprojAssemblyReference.cache
+C:\Users\Sebastian\Documents\source\guardkey\guardkey\guardkey\obj\Debug\guardkey.Form1.resources
+C:\Users\Sebastian\Documents\source\guardkey\guardkey\guardkey\obj\Debug\guardkey.Properties.Resources.resources
+C:\Users\Sebastian\Documents\source\guardkey\guardkey\guardkey\obj\Debug\guardkey.csproj.GenerateResource.cache
+C:\Users\Sebastian\Documents\source\guardkey\guardkey\guardkey\obj\Debug\guardkey.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Documents\source\guardkey\guardkey\guardkey\obj\Debug\guardkey.exe
+C:\Users\Sebastian\Documents\source\guardkey\guardkey\guardkey\obj\Debug\guardkey.pdb
+C:\Users\Sebastian\Documents\source\guardkey\guardkey\guardkey\bin\Debug\guardkey.exe.config
+C:\Users\Sebastian\Documents\source\guardkey\guardkey\guardkey\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sebastian\Documents\source\guardkey\guardkey\guardkey\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Sebastian\Documents\source\guardkey\guardkey\guardkey\obj\Debug\guardkey.csproj.CopyComplete
+C:\Users\Sebastian\Documents\source\guardkey\guardkey\guardkey\obj\Debug\guardkey.pemFile.resources
