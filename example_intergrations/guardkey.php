@@ -103,7 +103,7 @@ class guardKey {
     public function generateGuardKey(): guardKey {
         $username = strtoupper(hash('SHA512', $this->username));
 
-        $dateTime = strtoupper(hash('SHA512', date('HdnY')));
+        $dateTime = strtoupper(hash('SHA512', intval(date('H')) . date('dnY')));
 
         $privateKey = strtoupper(hash('SHA512', $this->privateKey));
 

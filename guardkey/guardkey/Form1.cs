@@ -44,6 +44,7 @@ namespace guardkey
                 MessageBox.Show("password->" + sha512(_password.Text));
                 MessageBox.Show("privateKey->" + sha512(privateKey));
                 MessageBox.Show("dateTime->" + sha512(hr + dy + mn + yy));
+                MessageBox.Show(hr + dy + mn + yy);
             }
             _guardKey.Text =sha512(computedHash);
             Clipboard.SetText(_guardKey.Text);
