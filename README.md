@@ -1,7 +1,7 @@
 # Guard Key
 
 ## Introduction
-Guardkey is a method of secondary authentication, via tokenisation. It is not to be confused with two factor authentication, as it's on the same device.
+Guardkey adds a layer of authentication, via tokenisation. It is not to be confused with two factor authentication, as it's on the same device.
 It works by creating a unque token based off time, a usernames credentials and a private stored server key. These are then put into a windows based 
 program and a token produced. This is placed into the web app which then repeates the same process, using the information it has, and compares. 
 
