@@ -1,4 +1,4 @@
-
+```
   ______                                       __        __    __                     
  /      \                                     /  |      /  |  /  |                    
 /$$$$$$  | __    __   ______    ______    ____$$ |      $$ | /$$/   ______   __    __ 
@@ -11,6 +11,7 @@ $$    $$/ $$    $$/ $$    $$ |$$ |      $$    $$ |      $$ | $$  |$$       |$$  
                                                                             /  \__$$ |
                                                                             $$    $$/ 
                                                                              $$$$$$/ 
+```
 
 ## Introduction
 Guardkey adds a layer of authentication, via tokenisation. It is not to be confused with two factor authentication, as it's on the same device, but its an 'on the fly' token generation via a c# application.
